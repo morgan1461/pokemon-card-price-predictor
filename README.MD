@@ -70,9 +70,9 @@ graph TD
 
 - [x] `Stage 1 (Final Project Proposal)` project_proposal.docx
 - [x] `Exploratory Data Analysis` eda.ipynb
-- [ ] `Supervised Learning Method 1: Regression` model.ipynb
-- [ ] `Supervised Learning Method 2: Random Forest` model.ipynb
-- [ ] `Evaluation Metrics and Visualizations` model.ipynb
-- [ ] `Technical Report` (Maximum 15 pages, including text, visualizations, code, references) technical_report.docx
-- [ ] `3-5 Minute Video Presentation` .mp4 file included in final.zip
-- [ ] `Submit Final .zip`
+- [x] `Supervised Learning Method 1: Regression` model.ipynb
+- [x] `Supervised Learning Method 2: Random Forest` model.ipynb
+- [x] `Evaluation Metrics and Visualizations` model.ipynb
+- [x] `Technical Report` (Maximum 15 pages, including text, visualizations, code, references) technical_report.docx
+- [x] `3-5 Minute Video Presentation` .mp4 file included in final.zip
+- [x] `Submit Final .zip`
